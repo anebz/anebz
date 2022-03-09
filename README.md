@@ -1,4 +1,4 @@
-### Hi there 👋 I'm [Ane Berasategi](anebz.eu)
+### Hi there 👋 I'm [Ane Berasategi](https://anebz.eu)
 
 > DevOps and Machine Learning Engineer
 
@@ -12,9 +12,9 @@
 ## Top repositories
 
 * ⭐🧗 [**boulder**](https://github.com/anebz/boulder): [Boulder tracking website](http://bouldern.herokuapp.com/) to track bouldering gyms' occupancy
-* ☁️ [cloud](https://github.com/anebz/cloud): notes from certifications, projects, tutorials and resources
+* ☁️ [cloud](https://github.com/anebz/cloud): notes from AWS and Azure certifications, projects, tutorials and resources
 * 📝 [papers](https://github.com/anebz/papers): notes on Deep Learning papers, mostly NLP
-* 🌐 [resources](https://github.com/anebz/resources): various resources on learning, career development, personal development, job hunting
+* 🌐 [resources](https://github.com/anebz/resources): various resources on learning, career development, personal development, job search
 * 💰 [finance](https://github.com/anebz/finance): notes, links and resources on finance and investing
 
 ![anebz's GitHub stats](https://github-readme-stats.vercel.app/api?username=anebz&count_private=true&show_icons=true&theme=vue-dark)
