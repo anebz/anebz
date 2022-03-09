@@ -7,17 +7,17 @@
 * 📚 I'm currently reading a thriller called [The Defense by Steve Cavanagh](https://www.goodreads.com/book/show/26156988-the-defense)
 * 🧐 Recent favorite book: [Sonne und Beton by Felix Lobrecht](https://www.goodreads.com/book/show/34527697-sonne-und-beton)
 * 🍿 Recent favorite TV show: For all humankind 👩‍🚀
-* 🚲 I like to go cycling, bouldering and recently running
-
-![anebz's GitHub stats](https://github-readme-stats.vercel.app/api?username=anebz&count_private=true&show_icons=true&theme=vue-dark)
+* 🚲 I like to go cycling, bouldering and running. Recently completed my first 5k 🏃
 
 ## Top repositories
 
 * ⭐🧗 [**boulder**](https://github.com/anebz/boulder): [Boulder tracking website](http://bouldern.herokuapp.com/) to track bouldering gyms' occupancy
 * ☁️ [cloud](https://github.com/anebz/cloud): notes from certifications, projects, tutorials and resources
 * 📝 [papers](https://github.com/anebz/papers): notes on Deep Learning papers, mostly NLP
-* 🌐[resources](https://github.com/anebz/resources): various resources on learning, career development, personal development, job hunting
+* 🌐 [resources](https://github.com/anebz/resources): various resources on learning, career development, personal development, job hunting
 * 💰 [finance](https://github.com/anebz/finance): notes, links and resources on finance and investing
+
+![anebz's GitHub stats](https://github-readme-stats.vercel.app/api?username=anebz&count_private=true&show_icons=true&theme=vue-dark)
 
 ## 📩 Contact me
 
