@@ -3,17 +3,17 @@
 > DevOps and Machine Learning Engineer
 
 * 🔭 I’m currently working on cloud consulting, specializing in AWS and Azure solutions, especially for Machine Learning
-* 🌱 I’m currently learning time series models for Machine Learning with the help of the book: [Forecasting: Principles and Practice](https://otexts.com/fpp2/)
-* 📚 I'm currently reading a thriller called [The Defense by Steve Cavanagh](https://www.goodreads.com/book/show/26156988-the-defense)
+* 🌱 I’m currently completing the [Practical Data Science on the AWS Cloud Specialization](https://www.coursera.org/specializations/practical-data-science) from Coursera and learning about deploying ML models in AWS Sagemaker
+* 📚 I'm currently reading a biography by Edurne Pasaban called [Catorce veces ochomil](https://www.goodreads.com/book/show/31139672-catorce-veces-ocho-mil)
 * 🧐 Recent favorite book: [The Evening and the Morning](https://www.goodreads.com/book/show/49239093-the-evening-and-the-morning)
 * 🍿 Recent favorite TV show: For all humankind 👩‍🚀
-* 🚲 I like to go cycling, bouldering and running. Recently completed my first 5k 🏃
+* 🚲 I like to go cycling, bouldering and running 🏃
 
 ## Top repositories
 
+* ⭐🌎 [**polysub**](https://github.com/anebz/polysub): subtitle translation app built serverless on AWS using Huggingface API
 * ⭐🧗 [**boulder**](https://github.com/anebz/boulder): [Boulder tracking website](http://bouldern.herokuapp.com/) to track bouldering gyms' occupancy
 * ☁️ [cloud](https://github.com/anebz/cloud): notes from AWS and Azure certifications, projects, tutorials and resources
-* 🌎 [**polysub**](https://github.com/anebz/polysub): subtitle translation app built serverless on AWS using Huggingface API
 * 📝 [papers](https://github.com/anebz/papers): notes on Deep Learning papers, mostly NLP
 * 🌐 [resources](https://github.com/anebz/resources): various resources on learning, career development, personal development, job search
 * 💰 [finance](https://github.com/anebz/finance): notes, links and resources on finance and investing
