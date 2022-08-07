@@ -11,8 +11,8 @@
 
 ## Top repositories
 
-* ⭐🌎 [**polysub**](https://github.com/anebz/polysub): subtitle translation app built serverless on AWS using Huggingface API
-* ⭐🧗 [**boulder**](https://github.com/anebz/boulder): [Boulder tracking website](http://bouldern.herokuapp.com/) to track bouldering gyms' occupancy
+* ⭐🌎 [**polysub**](https://github.com/anebz/polysub): subtitle translation app built serverless on AWS using Huggingface API. [Website](polysub.anebz.eu)
+* ⭐🧗 [**boulder**](https://github.com/anebz/boulder): [Boulder tracking website](boulder.anebz.eu) to track bouldering gyms' occupancy
 * ☁️ [cloud](https://github.com/anebz/cloud): notes from AWS and Azure certifications, projects, tutorials and resources
 * 📝 [papers](https://github.com/anebz/papers): notes on Deep Learning papers, mostly NLP
 * 🌐 [resources](https://github.com/anebz/resources): various resources on learning, career development, personal development, job search
