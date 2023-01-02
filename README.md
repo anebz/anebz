@@ -3,8 +3,7 @@
 > DevOps and Machine Learning Engineer
 
 * 🔭 I’m currently working on cloud consulting, specializing in AWS and Azure solutions, especially for Machine Learning
-* 🌱 I’m currently completing the [Practical Data Science on the AWS Cloud Specialization](https://www.coursera.org/specializations/practical-data-science) from Coursera and learning about deploying ML models in AWS Sagemaker
-* 📚 I'm currently reading a biography by Edurne Pasaban called [Catorce veces ochomil](https://www.goodreads.com/book/show/31139672-catorce-veces-ocho-mil)
+* 🥂 I recently passed the AWS data analytics specialty!
 * 🧐 Recent favorite book: [The Evening and the Morning](https://www.goodreads.com/book/show/49239093-the-evening-and-the-morning)
 * 🍿 Recent favorite TV show: For all humankind 👩‍🚀
 * 🚲 I like to go cycling, bouldering and running 🏃
