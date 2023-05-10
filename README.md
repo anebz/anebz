@@ -17,8 +17,6 @@
 * 🌐 [resources](https://github.com/anebz/resources): various resources on learning, career development, personal development, job search
 * 💰 [finance](https://github.com/anebz/finance): notes, links and resources on finance and investing
 
-![anebz's GitHub stats](https://github-readme-stats.vercel.app/api?username=anebz&count_private=true&show_icons=true&theme=vue-dark)
-
 ## 📩 Contact me
 
 * Twitter: [anebzt](https://twitter.com/anebzt)
